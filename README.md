@@ -1,2 +1,3 @@
 # my-new-repo
-a test repository
+import numpy as np
+
